@@ -4,6 +4,10 @@
 The **IRCTC Real-Time Data Pipeline** is a cloud-based data processing system designed to ingest, transform, and store real-time streaming data from IRCTC (Indian Railway Catering and Tourism Corporation). This project leverages **Google Cloud Platform (GCP)** services such as **Pub/Sub, Dataflow (Apache Beam), BigQuery, and Cloud Storage** to enable seamless data processing, transformation, and analysis.
 
 
+## 📊 Project Diagram
+![IRCTC Flowchart](https://github.com/user-attachments/assets/ea067730-0a22-47ec-9058-44aaa2e2b40a)
+
+
 
 ## 📁 Architecture Overview  
 ### **🔹 Data Flow Pipeline**
